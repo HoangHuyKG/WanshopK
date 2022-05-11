@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=My+Soul&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+.header {
+    width: 1170px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+.rootheader {
+    background-color: #000000;
+}
+.header_logo_text:hover {
+    cursor: pointer;
+}
+.header_logo_text {
+    color: white;
+    font-family: 'My Soul', cursive;
+    font-size: 30px;
+    user-select: none;
+    margin-top: 10px;
+}
+.header_logo {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header_logo_image {
+    width: 80px;
+    height: 80px;
+}
+.header_nav_text:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+.header_nav_text {
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.header_nav {
+    display: flex;
+}

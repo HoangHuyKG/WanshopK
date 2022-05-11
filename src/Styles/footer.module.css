@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=My+Soul&display=swap');
+.footer_logo {
+    color: white;
+    font-family: 'My Soul', cursive;
+    font-size: 30px;
+    user-select: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

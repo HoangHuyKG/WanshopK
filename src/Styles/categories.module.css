@@ -1,0 +1,18 @@
+.category {
+    padding: 0;
+    margin: 10px;
+    list-style: none;
+}
+.category_item {
+    text-align: left;
+    transition: linear 0.2s;
+}
+
+.category_item:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    transform: translateX(4px);
+}
+.category_text {
+    font-weight: bold;
+}

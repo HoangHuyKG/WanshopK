@@ -1,0 +1,32 @@
+.item_img {
+    object-fit: contain;
+    width: 100%;
+}
+
+.item:hover {
+    cursor: pointer;
+    transform: scale(1.01);
+}
+.item_content {
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items: flex-start;
+}
+.item_title {
+    text-align: start;
+    font-weight: 500;
+    color: black;
+    font-size: 14px;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.item_price {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    color: black;
+    font-size: 15px;
+}
