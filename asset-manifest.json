@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b1ec417.css",
-    "main.js": "/static/js/main.d9c1e36f.js",
-    "static/js/787.9bdaebda.chunk.js": "/static/js/787.9bdaebda.chunk.js",
-    "static/media/logo.png": "/static/media/logo.6fcea4277c92e1d016d6.png",
-    "index.html": "/index.html",
-    "main.8b1ec417.css.map": "/static/css/main.8b1ec417.css.map",
-    "main.d9c1e36f.js.map": "/static/js/main.d9c1e36f.js.map",
-    "787.9bdaebda.chunk.js.map": "/static/js/787.9bdaebda.chunk.js.map"
+    "main.css": "/WanshopK/static/css/main.8b1ec417.css",
+    "main.js": "/WanshopK/static/js/main.47f08b0a.js",
+    "static/js/787.9bdaebda.chunk.js": "/WanshopK/static/js/787.9bdaebda.chunk.js",
+    "static/media/logo.png": "/WanshopK/static/media/logo.6fcea4277c92e1d016d6.png",
+    "index.html": "/WanshopK/index.html",
+    "main.8b1ec417.css.map": "/WanshopK/static/css/main.8b1ec417.css.map",
+    "main.47f08b0a.js.map": "/WanshopK/static/js/main.47f08b0a.js.map",
+    "787.9bdaebda.chunk.js.map": "/WanshopK/static/js/787.9bdaebda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b1ec417.css",
-    "static/js/main.d9c1e36f.js"
+    "static/js/main.47f08b0a.js"
   ]
 }
